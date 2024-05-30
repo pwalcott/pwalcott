@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pwalcott
 - 👀 I’m interested in front-end web dev things. 
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on creating cool webpages.
+- 💞️ I’m looking to collaborate on creating cool things.
 - 👩🏼‍💻 I'm always learning everyday!
 - 📫 Reach me @piacaraw on <b><u>Twitter</u></b>
 
