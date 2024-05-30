@@ -2,7 +2,6 @@
 - 👀 I’m interested in front-end web dev things. 
 - 💞️ I’m looking to collaborate on creating cool things.
 - 👩🏼‍💻 I'm always learning everyday!
-- 📫 Reach me @piacaraw on <b><u>Twitter</u></b>
 
 <!---
 pwalcott/pwalcott is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
